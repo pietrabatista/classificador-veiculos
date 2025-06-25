@@ -17,7 +17,9 @@ O classificador foi treinado para distinguir entre três tipos de veículos:
 
 Assista ao funcionamento completo do projeto neste vídeo:
 
-[Clique aqui para assistir no Google Drive](link do video)
+[Clique aqui para assistir no Google Drive](https://drive.google.com/file/d/1nQdQZaKo8SzP5cTlELAEeUp8yEjY1xMZ/view?usp=sharing)
+
+Obs: Sugiro assistir em 2.0x ou ir direto para o minuto 3 caso queira ver somente a implementação com a interface.
 
 ---
 
@@ -86,7 +88,7 @@ Acurácia: **67%**
 ### 1. Clone o repositório e entre na pasta
 
 ```bash
-git clone https://github.com/seu-usuario/classificador-veiculos.git
+git clone https://github.com/pietrabatista/classificador-veiculos.git
 cd classificador-veiculos
 ```
 ### 2. Crie o ambiente virtual e ative
