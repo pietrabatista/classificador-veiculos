@@ -33,11 +33,11 @@ Obs: Sugiro assistir em 2.0x ou ir direto para o minuto 3 caso queira ver soment
 
 ## Desempenho
 
-O modelo foi treinado com 30 imagens no total, sendo:
+O modelo foi treinado com 60 imagens no total, sendo:
 
-- 10 imagens de carros
-- 10 imagens de bicicletas
-- 10 imagens de ônibus
+- 20 imagens de carros
+- 20 imagens de bicicletas
+- 20 imagens de ônibus
 
 Após o treino com separação de 80% para treino e 20% para teste, obtivemos os seguintes resultados:
 
